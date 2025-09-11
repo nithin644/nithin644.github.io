@@ -4,7 +4,7 @@ Welcome to the repository of my **personal portfolio website**!
 This website showcases my projects, skills, and experiences in **cybersecurity, bug bounty hunting, and software development**.
 
 ## 🚀 Live Demo
-🔗 [View My Portfolio](https://nithin644.github.io/portfolio/)
+🔗 [View My Portfolio](https://nithin644.github.io/)
 
 ## 📌 Features
 - Modern and responsive design
