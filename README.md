@@ -15,7 +15,7 @@ This website showcases my projects, skills, and experiences in **cybersecurity, 
 
 ## ✨ About Me
 Hi, I’m **Nithin** 👋  
-- 🎓 3rd Year CSE Student  
+- 🎓 Final Year BTech CSE Student  
 - 🛡️ Bug Bounty Hunter (2+ year experience)  
 - 🧑‍💻 Skilled in **Web App Security, Malware Analysis, AI in Hacking**  
 - 📖 Currently learning **Web Application Security & LLM Pentesting**
