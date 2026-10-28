@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://nithin644.github.io/</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://nithin644.github.io/og-image.png</image:loc>
+      <image:title>Nithin Palegar - Ethical Hacker and Cybersecurity Researcher</image:title>
+      <image:caption>Offensive Security, Bug Bounty, and Security Research Portfolio</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nithin644.github.io/assets/nasa.png</image:loc>
+      <image:title>NASA Token of Appreciation - Nithin Palegar</image:title>
+      <image:caption>NASA Vulnerability Disclosure Token of Appreciation</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nithin644.github.io/assets/lg.png</image:loc>
+      <image:title>LG Electronics Appreciation Letter</image:title>
+      <image:caption>LG Electronics Security Vulnerability Disclosure Appreciation</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://nithin644.github.io/images/vtu.png</image:loc>
+      <image:title>Visvesvaraya Technological University Logo</image:title>
+      <image:caption>Secured Organization - Visvesvaraya Technological University (VTU)</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://nithin644.github.io/about.html</loc>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
+
